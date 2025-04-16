@@ -1,0 +1,30 @@
+# Environment
+music_venv/
+.env
+*.pyc
+__pycache__/
+
+# Data files
+Data/
+adata/
+*.h5
+*.pb
+variables/
+data.json
+
+# IDE
+.idea/
+.vscode/
+*.ipynb_checkpoints/
+
+# System
+.DS_Store
+.ipynb_checkpoints/
+
+# Model files
+*.pb
+variables/
+keras_metadata.pb
+music-gen-classify-v1/
+music-gen-classify-v1.h5
+music-gen-classify-v2.h5
