@@ -7,7 +7,6 @@ __pycache__/
 # Data files
 Data/
 adata/
-*.h5
 *.pb
 variables/
 data.json
@@ -25,6 +24,3 @@ data.json
 *.pb
 variables/
 keras_metadata.pb
-music-gen-classify-v1/
-music-gen-classify-v1.h5
-music-gen-classify-v2.h5
